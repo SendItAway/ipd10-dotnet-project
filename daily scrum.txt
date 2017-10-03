@@ -1,0 +1,21 @@
+Every day both team members write the following
+
+Date and name
+1. What have I done / not done since last Scrum?
+2. What will I do from now until next Scrum?
+3. Where do I need help from my teammate, teacher, or internet?
+
+2017/10/03 Gregory
+1. I implemented X and didn't implement Y
+2. I will implement ABC and KLJKLJ
+3. I need to find a library for PDF and do a small test project with it
+
+2017/10/03 Jerry
+1.
+2.
+3.
+
+
+
+
+
